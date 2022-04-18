@@ -4,3 +4,5 @@ This Java program will implement a 2d array to create a table using the data fro
 The score data will be use to calculate the mean score for each day and the standard deviation in scores for each day.
 
 The program  will also compute the difference between means for each day. 
+
+<img src = 'scores.mov'>
