@@ -5,4 +5,4 @@ The score data will be use to calculate the mean score for each day and the stan
 
 The program  will also compute the difference between means for each day. 
 
-<img src = 'scores.mov'>
+<img src = 'scores.gif'>
