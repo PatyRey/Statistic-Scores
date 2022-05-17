@@ -31,7 +31,7 @@ The standard deviation is computed by:
   
 This algorithm is summarized by the following standard deviation formula:
 
-<img src=“SD.png”>
+<img src='SD.png'>
 
 where: 
 N is the number of items (temperatures in this case: 24) 
@@ -42,6 +42,6 @@ N is the number of items (temperatures in this case: 24)
 Computing the differences between means 
 
 The program will do pair-wise T-tests on the means (we could use a single analysis of variance (ANOVA) but we will stick with T-tests). 
-<img src=“tTest.png”>
+<img src='tTest.png'>
 
 <img src = 'scores.gif'>
