@@ -1,9 +1,4 @@
 # Statistical-Calculations
-This Java program will implement a 2d array to create a table using the data from a text file. The program will tokenize the information, creating a string array for the dates and an int array with the scores.
-
-The score data will be use to calculate the mean score for each day and the standard deviation in scores for each day.
-
-The program  will also compute the difference between means for each day. 
 
 This program will perform statistics on student scores for several days. 
 
@@ -22,6 +17,7 @@ The program computes the mean (average) score for each day and the standard devi
 The mean score is computed by adding up all the individual scores and dividing them by the total number of scores for the day. 
 
 The standard deviation is computed by: 
+
 	1.	computing the mean score. 
   
 	2.	going through a loop for each score in which you :  
@@ -34,7 +30,9 @@ The standard deviation is computed by:
 	4.	Take the square root of that result - this is the standard deviation of the list of scores. 
   
 This algorithm is summarized by the following standard deviation formula:
+
 <img src=“SD.png”>
+
 where: 
 N is the number of items (temperatures in this case: 24) 
 - Sigma indicates “the sum of”
@@ -42,6 +40,7 @@ N is the number of items (temperatures in this case: 24)
 - mu is the mean value of the items on the list 
 
 Computing the differences between means 
+
 The program will do pair-wise T-tests on the means (we could use a single analysis of variance (ANOVA) but we will stick with T-tests). 
 <img src=“tTest.png”>
 
