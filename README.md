@@ -16,7 +16,7 @@
 
 - The mean score is computed by adding up all the individual scores and dividing them by the total number of scores for the day. 
 
-- The standard deviation is computed by: 
+The standard deviation is computed by: 
 
 	1.	computing the mean score. 
   
