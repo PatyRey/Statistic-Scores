@@ -44,4 +44,6 @@ N is the number of items (temperatures in this case: 24)
 - The program will do pair-wise T-tests on the means (we could use a single analysis of variance (ANOVA) but we will stick with T-tests). 
 <img src='tTest.png'>
 
+<br>
+
 <img src = 'scores.gif'>
